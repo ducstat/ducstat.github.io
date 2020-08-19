@@ -19,15 +19,14 @@ Research position and Duties
 ======
 > **Researcher at Crops Research and Development Institute (CRDI) – Vietnam National University of Agriculture (VNUA)**
 
-*Location: Trauquy, Gialam, Hanoi, Vietnam*
-
-*Duration: From 11/2015 to now*
+* Location: Trauquy, Gialam, Hanoi, Vietnam*
+* Duration: From 11/2015 to now*
 
 **Duties**:
-1. Breeding F1 corn (vegetable corn, sweetcorn, waxy corn).
-2. Developing and applying new agriculture technology in modern agriculture research and farming for sustainable development.
-3. Conducting experiments on lily, tulip, watermelon, muskmelon, tomato.
-4. Support students doing experiments for undergraduate and postgraduate research.
+* Breeding F1 corn (vegetable corn, sweetcorn, waxy corn).
+* Developing and applying new agriculture technology in modern agriculture research and farming for sustainable development.
+* Conducting experiments on lily, tulip, watermelon, muskmelon, tomato.
+* Support students doing experiments for undergraduate and postgraduate research.
 
 MSc. Research
 ======
