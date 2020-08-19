@@ -13,7 +13,7 @@ name                     : &name "Nguyen Trung Duc"
 description              : &description "personal description"
 url                      : https://ntduc11.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "ntduc11/ntduc11.github.io"
+repository               : "ducstat/ducstat.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "ntduc11"
+  github           : "ducstat"
   google_plus      :
   keybase          :
   instagram        :
