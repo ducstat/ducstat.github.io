@@ -15,8 +15,13 @@ Research Interests
 ======
 My research aims to integrate phenomic and genomics approaches to understand how plants respond to environmental stresses, and to provide breeders with a means to improve these responses. My final goal is to bridge plant physiology and quantitative genetics to provide a mechanistic understanding of how plant respond to various abiotic stress conditions and provide the novel methods to phenotyping faster, highly accuracy, save time and man power.
 
-Research Duties
+Research position and Duties
 ======
+Researcher at Crops Research and Development Institute (CRDI) – Vietnam National University of Agriculture (VNUA)
+Location: Trauquy, Gialam, Hanoi, Vietnam 
+Duration: From 11/2015 to now.
+
+Duties
 1. Breeding F1 corn (vegetable corn, sweetcorn, waxy corn).
 2. Developing and applying new agriculture technology in modern agriculture research and farming for sustainable development
 3. Conducting experiments on lily, tulip, watermelon,muskmelon, tomato.
@@ -29,6 +34,8 @@ Master Research
 3. Objective: This aim of this study were to identify donors for nitrogen use efficiency (NUE) in rice using high throughput phenomics approach and to map QTLs/genes governing NUE in rice genotypes. 
 4. University: ICAR - Indian Agricultural Research Institute, Nanaji Deshmukh Plant Phenomics Centre
 5.Location: Pusa campus, New Delhi, India
+6. Duration: 2018-2020
+
 BSc. Research
 ======
 1. Thesis title: Photosynthetic characteristics of some newly developed short growth duration rice lines (Oryza Sativa L.)”.
@@ -36,3 +43,4 @@ BSc. Research
 3. Objectives: Examine the agro-physiological characteristics such as: photosynthesis, stomatal conductance, and transpiration rate, dry matter weight, crop growth rate, leaf area, leaf size related to the grain yield
 4. University: Vietnam National University of Agriculture, Plant Production Physiology Laboratory
 5. Location: Trauquy, Gialam, Hanoi, Vietnam
+6. Duration: 2014-2015
