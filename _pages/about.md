@@ -17,7 +17,8 @@ My research aims to integrate phenomic and genomics approaches to understand how
 
 Research position and Duties
 ======
-> Researcher at Crops Research and Development Institute (CRDI) – Vietnam National University of Agriculture (VNUA)<
+> Researcher at Crops Research and Development Institute (CRDI) – Vietnam National University of Agriculture (VNUA)
+/
 *Location: Trauquy, Gialam, Hanoi, Vietnam
 *Duration: From 11/2015 to now
 
