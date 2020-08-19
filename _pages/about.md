@@ -35,7 +35,7 @@ MSc. Research
 2. Rice materials: 300 diverse rice genotypes (3k IRRI, BAM, national cultivars, etc).
 3. Objective: This aim of this study were to identify donors for nitrogen use efficiency (NUE) in rice using high throughput phenomics approach and to map QTLs/genes governing NUE in rice genotypes. 
 4. University: ICAR - Indian Agricultural Research Institute, Nanaji Deshmukh Plant Phenomics Centre.
-5.Location: Pusa campus, New Delhi, India.
+5. Location: Pusa campus, New Delhi, India.
 6. Duration: 2018-2020.
 
 BSc. Research
