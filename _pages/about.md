@@ -13,7 +13,7 @@ My research here at Nanaji Deshmukh Plant Phenomics Centre, ICAR- IARI is focuse
 
 Research Interests
 ======
-My research aims to integrate phenomic and genomics approaches to understand how plants respond to environmental stresses, and to provide breeders with a means to improve these responses. My overarching goal is to bridge plant physiology and quantitative genetics to provide a mechanistic understanding of how plant respond to various abiotic stress conditions and provide the novel methods to phenotyping faster, highly accuracy, save time and man power.
+My research aims to integrate phenomic and genomics approaches to understand how plants respond to environmental stresses, and to provide breeders with a means to improve these responses. My final goal is to bridge plant physiology and quantitative genetics to provide a mechanistic understanding of how plant respond to various abiotic stress conditions and provide the novel methods to phenotyping faster, highly accuracy, save time and man power.
 
 Research Duties
 ======
@@ -23,13 +23,15 @@ Research Duties
 
 Master Research
 ======
-Thesis title: HIGH-THROUGHPUT PHENOTYPING OF RICE GENOTYPES FOR NITROGEN USE EFFICIENCY.
-Rice materials: 300 diverse rice genotypes (3k IRRI, BAM, national cultivars, etc).
-Objective: This aim of this study were to identify donors for nitrogen use efficiency (NUE) in rice using high throughput phenomics approach and to map QTLs/genes governing NUE in rice genotypes. 
-
+1. Thesis title: HIGH-THROUGHPUT PHENOTYPING OF RICE GENOTYPES FOR NITROGEN USE EFFICIENCY.
+2. Rice materials: 300 diverse rice genotypes (3k IRRI, BAM, national cultivars, etc).
+3. Objective: This aim of this study were to identify donors for nitrogen use efficiency (NUE) in rice using high throughput phenomics approach and to map QTLs/genes governing NUE in rice genotypes. 
+4. University: ICAR - Indian Agricultural Research Institute, Nanaji Deshmukh Plant Phenomics Centre
+5.Location: Pusa campus, New Delhi, India
 BSc. Research
 ======
-Thesis title: Photosynthetic characteristics of some newly developed short growth duration rice lines (Oryza Sativa L.)”.
-Rice materials: Four newly rice lines containing genes GN1 (grain number 1), which increase number of grains per panicle (D31, D32) and WFP1 (wealthy farmer’s panicle 1), which increase number of primary branches in panicle (D35, D36). These lines were developed from genetic background of Khang Dan 18 (KD18) by backcrossing method and MAS (Marker Assisted Selection).
-Objectives: Examine the agro-physiological characteristics such as: photosynthesis, stomatal conductance, and transpiration rate, dry matter weight, crop growth rate, leaf area, leaf size related to the grain yield
-
+1. Thesis title: Photosynthetic characteristics of some newly developed short growth duration rice lines (Oryza Sativa L.)”.
+2. Rice materials: Four newly rice lines containing genes GN1 (grain number 1), which increase number of grains per panicle (D31, D32) and WFP1 (wealthy farmer’s panicle 1), which increase number of primary branches in panicle (D35, D36). These lines were developed from genetic background of Khang Dan 18 (KD18) by backcrossing method and MAS (Marker Assisted Selection).
+3. Objectives: Examine the agro-physiological characteristics such as: photosynthesis, stomatal conductance, and transpiration rate, dry matter weight, crop growth rate, leaf area, leaf size related to the grain yield
+4. University: Vietnam National University of Agriculture, Plant Production Physiology Laboratory
+5. Location: Trauquy, Gialam, Hanoi, Vietnam
