@@ -17,7 +17,7 @@ My research aims to integrate phenomic and genomics approaches to understand how
 
 Research position and Duties
 ======
-> **Researcher at Crops Research and Development Institute (CRDI) – Vietnam National University of Agriculture (VNUA)
+> **Researcher at Crops Research and Development Institute (CRDI) – Vietnam National University of Agriculture (VNUA)**
 
 *Location: Trauquy, Gialam, Hanoi, Vietnam
 
@@ -31,7 +31,7 @@ Research position and Duties
 
 Master Research
 ======
-1. Thesis title: **High-throughput phenotyping of rice genotypes for nitrogen use efficiency.
+1. Thesis title: **High-throughput phenotyping of rice genotypes for nitrogen use efficiency**.
 2. Rice materials: 300 diverse rice genotypes (3k IRRI, BAM, national cultivars, etc).
 3. Objective: This aim of this study were to identify donors for nitrogen use efficiency (NUE) in rice using high throughput phenomics approach and to map QTLs/genes governing NUE in rice genotypes. 
 4. University: ICAR - Indian Agricultural Research Institute, Nanaji Deshmukh Plant Phenomics Centre.
@@ -40,7 +40,7 @@ Master Research
 
 BSc. Research
 ======
-1. Thesis title: **Photosynthetic characteristics of some newly developed short growth duration rice lines (*Oryza Sativa L.).
+1. Thesis title: **Photosynthetic characteristics of some newly developed short growth duration rice lines (*Oryza Sativa L.*)**.
 2. Rice materials: Four newly rice lines containing genes *GN1 (grain number 1)*, which increase number of grains per panicle (D31, D32) and *WFP1 (wealthy farmer’s panicle 1)*, which increase number of primary branches in panicle (D35, D36). These lines were developed from genetic background of Khang Dan 18 (KD18) by backcrossing method and MAS (Marker Assisted Selection).
 3. Objectives: Examine the agro-physiological characteristics such as: photosynthesis, stomatal conductance, and transpiration rate, dry matter weight, crop growth rate, leaf area, leaf size related to the grain yield.
 4. University: Vietnam National University of Agriculture, Plant Production Physiology Laboratory
