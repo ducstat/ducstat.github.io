@@ -17,15 +17,13 @@ My research aims to integrate phenomic and genomics approaches to understand how
 
 Research position and Duties
 ======
-Researcher at Crops Research and Development Institute (CRDI) – Vietnam National University of Agriculture (VNUA)
-
-Location: Trauquy, Gialam, Hanoi, Vietnam 
-
-Duration: From 11/2015 to now.
+> Researcher at Crops Research and Development Institute (CRDI) – Vietnam National University of Agriculture (VNUA)
+*Location: Trauquy, Gialam, Hanoi, Vietnam
+*Duration: From 11/2015 to now
 
 Duties
 1. Breeding F1 corn (vegetable corn, sweetcorn, waxy corn).
-2. Developing and applying new agriculture technology in modern agriculture research and farming for sustainable development
+2. Developing and applying new agriculture technology in modern agriculture research and farming for sustainable development.
 3. Conducting experiments on lily, tulip, watermelon,muskmelon, tomato.
 4. Support students doing experiments for undergraduate and postgraduate research.
 
@@ -42,7 +40,7 @@ BSc. Research
 ======
 1. Thesis title: Photosynthetic characteristics of some newly developed short growth duration rice lines (Oryza Sativa L.)”.
 2. Rice materials: Four newly rice lines containing genes GN1 (grain number 1), which increase number of grains per panicle (D31, D32) and WFP1 (wealthy farmer’s panicle 1), which increase number of primary branches in panicle (D35, D36). These lines were developed from genetic background of Khang Dan 18 (KD18) by backcrossing method and MAS (Marker Assisted Selection).
-3. Objectives: Examine the agro-physiological characteristics such as: photosynthesis, stomatal conductance, and transpiration rate, dry matter weight, crop growth rate, leaf area, leaf size related to the grain yield
+3. Objectives: Examine the agro-physiological characteristics such as: photosynthesis, stomatal conductance, and transpiration rate, dry matter weight, crop growth rate, leaf area, leaf size related to the grain yield.
 4. University: Vietnam National University of Agriculture, Plant Production Physiology Laboratory
 5. Location: Trauquy, Gialam, Hanoi, Vietnam
 6. Duration: 2014-2015
