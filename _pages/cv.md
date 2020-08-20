@@ -61,7 +61,12 @@ Skills
   * Vietnamese (Native)
   * English (Fluent)
   * Hindi (Beginner)
-
+Publications
+======
+  <ul>{% for post in site.publications %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+  
 Publications
 ======
 ## Peer-reviewed Publications 
@@ -89,6 +94,11 @@ Publications
 2.	Nguyen Trung Duc, Dhandapani Raju, Sudhir Kumar, Ranjeet Ranjan Kumar, Elangovan A. , Biswabiplab Singh and Viswanathan Chinnusamy (2019). High-throughput phenotyping of rice for early vigor traits related to nitrogen use efficiency. Poster presentation for thematic area “Abiotic Stress: Adaptations and Management” at the National Conference of Plant Physiology at Kerala Agricultural University, Thrissur, India from 19-21 December, 2019.
 3.	Nguyen Trung Duc, Pham Quang Tuan, Nguyen Thi Nguyet Anh, Vu Van Liet (2018). Screening and developing sweet maize materials for fruit maize breeding using phenotypes and molecular markers. Conference: “Technology application in perspective for sustainable agriculture and rural development”. Vietnam National University of Agriculture. Sponsored by Institutional Cooperation Program Between Vietnam National University Of Agriculture and The Francophone Joint University Council (Belgium).
 
+Talks
+======
+  <ul>{% for post in site.talks %}
+    {% include archive-single-talk-cv.html %}
+  {% endfor %
   
 Talks
 ======
