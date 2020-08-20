@@ -80,18 +80,18 @@ Publications
   
 Talks
 ======
-1. Poster presentation Topic: High-throughput phenotyping of rice for early vigor traits related to nitrogen use efficiency. National Conference of Plant Physiology at Kerala Agricultural University, Thrissur, India from 19-21 December, 2019.
-> **Advarded: Best poster award 
+1. 11/2019. Poster presentation Topic: High-throughput phenotyping of rice for early vigor traits related to nitrogen use efficiency. National Conference of Plant Physiology at Kerala Agricultural University, Thrissur, India from 19-21 December, 2019.
+> **Advarded: Best Poster Award** 
 
-2. Scientific presentation Topic: Improving the Sweetness of Waxy Corn Lines Using Backcrossing Method. “Scientific Report Presentation Program” at The workshop of “Science Day” In 2017. Vietnam National University of Agriculture, Vietnam – Belgium project.
-> **Advarded: 3rd Prize Scientific presentation 
+2. 11/2017. Scientific presentation Topic: Improving the Sweetness of Waxy Corn Lines Using Backcrossing Method. “Scientific Report Presentation Program” at The workshop of “Science Day” In 2017. Vietnam National University of Agriculture, Vietnam – Belgium project.
+> **Advarded: 3rd Prize Scientific presentation** 
 
-3. Scientific presentation Topic: General combining ability analysis of purple waxy corn lines with high anthocyanin content for hybrid purple waxy corn breeding. 7th Vietnam National Workshop of Technology and Science organized for the Young of Universities and Colleges in the field of Agriculture, Forestry, Fishery and Irrigation, in 2016.
-> **Advarded: 3rd Prize Scientific presentation 
+3. 11/2016. Scientific presentation Topic: General combining ability analysis of purple waxy corn lines with high anthocyanin content for hybrid purple waxy corn breeding. 7th Vietnam National Workshop of Technology and Science organized for the Young of Universities and Colleges in the field of Agriculture, Forestry, Fishery and Irrigation, in 2016.
+> **Advarded: 3rd Prize Scientific presentation** 
 
 Teaching
 ======
-* 2018. Muskmelon production under protected-enviroment in Quy Hop, Nghe An, Viet nam.
+* 06/2018. muskmelon production under protected-environment at Quy Hop, Nghe An, Viet nam.
 > Link: https://quyhop.gov.vn/vi/news/Nong-nghiep/hieu-qua-buoc-dau-trong-dua-nha-luoi-nha-mang-o-quy-hop-4344.html
 
 Service and leadership
