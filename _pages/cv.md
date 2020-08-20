@@ -28,7 +28,7 @@ Education
 
 Work experience
 ======
-* From 11/2015 to now
+* From 12/2015 to now
   * Researcher
   * Crops Research and Development Institute (CRDI) – Vietnam National University of Agriculture (VNUA)
   * Duties included: Breeding F1 corn (vegetable corn, sweetcorn, waxy corn). Developing and applying new agriculture technology in modern agriculture research and farming for sustainable development. Conducting experiments on lily, tulip, watermelon, muskmelon, tomato. Support students doing experiments for undergraduate and postgraduate research.
