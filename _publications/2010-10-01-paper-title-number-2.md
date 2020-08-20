@@ -1,7 +1,7 @@
 ---
 title: "Utilization of Natural Haploid Inducer, UH400, for Hybrid Maize Breeding"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
+permalink: /publication/2016
 excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
 date: 2016
 venue: 'Vietnam Journal of Agricultural Sciences, Vol. 14, No. 11:1 695-1706. (in Vietnamese with English abstract).'
