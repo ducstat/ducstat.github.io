@@ -61,6 +61,7 @@ Skills
   * Vietnamese (Native)
   * English (Fluent)
   * Hindi (Beginner)
+
 Publications
 ======
   <ul>{% for post in site.publications %}
