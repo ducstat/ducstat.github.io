@@ -13,7 +13,7 @@ My research here at Nanaji Deshmukh Plant Phenomics Centre, ICAR- IARI is focuse
 
 Research Interests
 ======
-My research aims to integrate phenomic and genomics approaches to understand how plants respond to environmental stresses, and to provide breeders with a means to improve these responses. My final goal is to bridge plant physiology and quantitative genetics to provide a mechanistic understanding of how plant respond to various abiotic stress conditions and provide the novel methods to phenotyping faster, highly accuracy, save time and man power.
+My research aims to integrate phenomics and genomics approaches to understand how plants respond to environmental stresses, and to provide breeders with a means to improve these responses. My final goal is to bridge plant physiology and quantitative genetics to provide a mechanistic understanding of how plant respond to various abiotic stress conditions and provide the novel methods to phenotyping faster, highly accuracy, save time and man power.
 
 Research position and Duties
 ======
