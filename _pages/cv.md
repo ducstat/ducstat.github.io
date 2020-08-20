@@ -103,7 +103,7 @@ Talks
 
 Teaching
 ======
-* 06/2018. muskmelon production under protected-environment at Quy Hop, Nghe An, Viet nam.
+* 06/2018. Muskmelon production under protected-environment at Quy Hop, Nghe An, Viet nam.
 > Link: https://quyhop.gov.vn/vi/news/Nong-nghiep/hieu-qua-buoc-dau-trong-dua-nha-luoi-nha-mang-o-quy-hop-4344.html
 
 Service and leadership
