@@ -1,4 +1,13 @@
+---
+layout: archive
+title: "CV"
+permalink: /cv/
+author_profile: true
+redirect_from:
+  - /resume
+---
 
+{% include base_path %}
 Education
 ======
 * M.Sc. Candidate, Plant Physiology, ICAR - Indian Agricultural Research Institute, Pusa, New Delhi, India, 2020
