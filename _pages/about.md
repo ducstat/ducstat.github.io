@@ -39,7 +39,7 @@ MSc. Research
 
 BSc. Research
 ======
-* Thesis title: **Photosynthetic characteristics of some newly developed high yielding rice lines (*Oryza Sativa L.*)**.
+* Thesis title: **Photosynthetic characteristics of some newly developed high-yielding rice lines (*Oryza Sativa L.*)**.
 * Rice materials: Four newly rice lines containing genes *GN1 (grain number 1)*, which increase number of grains per panicle (D31, D32) and *WFP1 (wealthy farmer’s panicle 1)*, which increase number of primary branches in panicle (D35, D36). These lines were developed from genetic background of Khang Dan 18 (KD18) by backcrossing method and MAS (Marker Assisted Selection).
 * Objectives: Examine the agro-physiological characteristics such as: photosynthesis, stomatal conductance, and transpiration rate, dry matter weight, crop growth rate, leaf area, leaf size related to the grain yield.
 * University: Vietnam National University of Agriculture, Plant Production Physiology Laboratory
